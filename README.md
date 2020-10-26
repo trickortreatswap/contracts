@@ -1,2 +1,5 @@
-# contracts
-Contracts
+# Trick Or Treat Contracts
+
+## BSC Testnet
+- Ghoul - 0x906c9f9A1505C89ACb4FE26BDeAFFfB779E70A3D
+- Gravedigger - 0x9584F24255A1b72a4Dffd4d6A762589d030D26e1
